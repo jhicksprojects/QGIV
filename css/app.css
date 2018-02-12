@@ -1,0 +1,74 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #ffffff;
+  color: #000000;
+  line-height: normal; }
+
+.widget-container {
+  margin: 0 auto;
+  padding: 1rem;
+  width: 17rem; }
+
+.inner-container {
+  width: 100%;
+  border: 1px solid #d3d8dc;
+  text-align: center;
+  background: #f5f8f9; }
+
+.logo-container {
+  width: 100%;
+  background: #ffffff; }
+  .logo-container img {
+    width: 100%;
+    max-width: 170px; }
+
+.details-container {
+  padding: 1rem 0; }
+
+.title {
+  display: block;
+  font-weight: bold;
+  width: 73%;
+  margin: 0 auto; }
+
+.amount {
+  display: block;
+  margin: 1rem auto 0; }
+  .amount .num {
+    color: #794297;
+    display: block;
+    font-weight: bold;
+    padding-bottom: 0.2rem; }
+
+.amount-details {
+  color: #000000;
+  display: block;
+  font-weight: normal;
+  font-size: 0.65rem;
+  text-transform: uppercase; }
+
+.indicator {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: silver; }
+
+.progress {
+  background: #ffffff;
+  border: 1px solid #d3d8dc;
+  height: 10px; }
+
+.progress-meter {
+  background: #794297; }
+
+.submitBtn {
+  background: #794297;
+  color: #ffffff;
+  border: 0;
+  padding: 0.90rem;
+  border-radius: 5px;
+  display: inline-block;
+  width: 100%;
+  font-weight: bold;
+  cursor: pointer; }
+
+/*# sourceMappingURL=app.css.map */
